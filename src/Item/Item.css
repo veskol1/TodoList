@@ -1,0 +1,13 @@
+.DivItem {
+    width: 254px;
+    margin: auto;
+}
+
+.Item {
+    padding-left: 3px ;
+    border: 1px solid #61dafb;
+    border-top: none;
+    text-align: start;
+}
+
+
