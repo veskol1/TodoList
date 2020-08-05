@@ -13,6 +13,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `screenshots`
-![](https://user-images.githubusercontent.com/13125281/89470931-9a71e880-d785-11ea-844a-362c99dfb9be.jpg | width=100)
+![alt text](https://user-images.githubusercontent.com/13125281/89470931-9a71e880-d785-11ea-844a-362c99dfb9be.jpg)
+
 
 
